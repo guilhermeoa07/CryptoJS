@@ -19,6 +19,7 @@
 	"dependencies": {
 		"cheerio": "latest",
 		"express": "latest",
+		"got": "^9.6.0",
 		"mysql2": "^1.6.5",
 		"normalize-port": "^1.0.0",
 		"request": "latest",
